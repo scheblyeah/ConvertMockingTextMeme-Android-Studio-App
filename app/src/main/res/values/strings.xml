@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mocking Text Generator</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="edit_text">Enter a text</string>
+    <string name="button_send">Send</string>
+    <string name="button_convert">Convert</string>
+    <string name="button_copy">Copy</string>
+
+</resources>
